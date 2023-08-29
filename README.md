@@ -1,12 +1,6 @@
 ### Hi there 🐼 👋🏿
 
-I’m a **frontEnd developer**.
 
-My main skills are HTML, CSS, JavaScript and React.
-
-I’m a persistent person, who study hard day and night for be a good developer
-
-I love Exercise, Programming, Learning, Reading the book and Steping up everything
 
 #### Come my blog😋
 
