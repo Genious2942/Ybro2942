@@ -51,8 +51,8 @@
 
 <hr>
 
-![Ybro2942's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ybro2942&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ybro2942&layout=compact&theme=transparent)
+![Ybro2942's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-genius&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-genius&layout=compact&theme=transparent)
 
 
 <!--
