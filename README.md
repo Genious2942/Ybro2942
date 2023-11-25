@@ -2,8 +2,8 @@
 
 
 
-#### Come my blog😋
-
+#### Come my blog😋 
+https://kim-genius.tistory.com/
 
 <hr>
 
