@@ -52,7 +52,7 @@ https://kim-genius.tistory.com/
 <hr>
 
 ![kim-genius GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-genius&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-genius&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kim-genius&layout=compact&theme=transparent&exclude_repo=kaggle_- )
 
 
 <!--
