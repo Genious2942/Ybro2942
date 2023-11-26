@@ -7,7 +7,7 @@
 <strong>협력과 소통</strong> 으로 더불어 성장하는 개발자
 <br/>
 <br/>
-개발에 관하여 <strong>흐름과 왜</strong>를 고민하는 개발자
+개발에 관하여 <strong>흐름과 왜</strong> 를 고민하는 개발자
 <br/>
 <br/>
 
