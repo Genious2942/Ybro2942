@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rounded&color=0:1e3c72,100:2a5298&height=200&section=header&text=Kim-YoungJae&desc=FrontEnd%20Developer&descAlignY=70&fontColor=f0fff0&fontSize=50&animation=twinkling)
 
 <hr/>
+<div style='display:flex,justify-content:center,align-text:center'>
 <strong>사용자의 니즈</strong> 를 가장 먼저 생각하는 개발자
 <br/>
 <br/>
@@ -8,6 +9,7 @@
 <br/>
 <br/>
 개발에 관하여 <strong>흐름과 왜</strong> 를 고민하는 개발자
+</div>
 <br/>
 <br/>
 
