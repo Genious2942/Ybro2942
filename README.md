@@ -12,10 +12,7 @@
 <br/>
 
 #### Come my ... 😋 
-  <a href='https://kim-genius.tistory.com/'> <img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"></a>
-
-  
-  <a href='https://dolomite-dahlia-5ab.notion.site/Genius-Portfolio-e7b336034a654371bad218027eb11083?pvs=4' style='text-decoration:none'><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href='https://kim-genius.tistory.com/'> <img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"></a>  <a href='https://dolomite-dahlia-5ab.notion.site/Genius-Portfolio-e7b336034a654371bad218027eb11083?pvs=4' style='text-decoration:none'><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
 <hr>
 
