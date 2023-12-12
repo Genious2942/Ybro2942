@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=auto&height=300&section=header&text=프론트엔드%20개발자%20김영재입니다🐼👋🏿%20render&fontSize=90)
 
-### 프론트엔드 개발자 김영재입니다!🐼 👋🏿
 <hr/>
 <strong>사용자의 니즈</strong> 를 가장 먼저 생각하는 개발자
 <br/>
