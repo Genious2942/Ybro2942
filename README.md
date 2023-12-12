@@ -2,7 +2,8 @@
 
 <hr/>
 <div align='center'>
-<strong>$\bf{\tiny{\color{#6580DD}사용자의 니즈}}$</strong> 를 가장 먼저 생각하는 개발자
+  <p>$\bf{\large{\color{#6580DD}두꺼운\ 글씨체,\ 큰글씨,\ 파란색}}$</p>
+<p>$\bf{\tiny{\color{#6580DD}사용자의 니즈}}$</p> 를 가장 먼저 생각하는 개발자
 <strong style='color:#2a5298'>사용자의 니즈</strong> 
 <br/>
 <br/>
