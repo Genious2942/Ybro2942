@@ -2,8 +2,8 @@
 
 <hr/>
 <div align='center'>
- <p>$\huge{\rm{\color{#2a5298}사용자의 니즈}}$</p>
-<strong style='color:#2a5298'>사용자의 니즈</strong> 를 가장 먼저 생각하는 개발자
+<strong>$\bf{\tiny{\color{#6580DD}사용자의 니즈}}$</strong> 를 가장 먼저 생각하는 개발자
+<strong style='color:#2a5298'>사용자의 니즈</strong> 
 <br/>
 <br/>
 <strong>협력과 소통</strong> 으로 더불어 성장하는 개발자
