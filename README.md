@@ -2,7 +2,7 @@
 
 <hr/>
 <div align='center'>
-<p>$\bf{\large{\color{#2a5298}사용자의 니즈}}$</p> 를 가장 먼저 생각하는 개발자
+<span>$\bf{\large{\color{#2a5298}사용자의 니즈}}$</span> 를 가장 먼저 생각하는 개발자
 <strong style='color:#2a5298'>사용자의 니즈</strong> 
 <br/>
 <br/>
