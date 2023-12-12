@@ -3,7 +3,7 @@
 <hr/>
 <div align='center'>
 <p>$\bf{\large{\color{#2a5298}사용자의 니즈}}$</p> 를 가장 먼저 생각하는 개발자
-<span style="color:blue">사용자의 니즈</span> 
+<span style="color:#0969DA">사용자의 니즈</span> 
 <br/>
 <br/>
 <strong>협력과 소통</strong> 으로 더불어 성장하는 개발자
