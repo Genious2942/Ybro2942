@@ -2,7 +2,7 @@
 
 <hr/>
 <div align='center'>
-$\fcolorbox{yellow}{red}{\textsf{lorem ipsum}}$
+
 $\bf{\large{\color{#2a5298}사용자의 니즈}}$ 
   를 가장 먼저 생각하는 개발자
 <span style="color:#0969DA">사용자의 니즈</span> 
