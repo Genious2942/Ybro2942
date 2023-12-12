@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KimYoungJae&desc=-nl-FrontEnd%20Developer&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KimYoungJae&desc=FrontEnd%20Developer&fontAlignY=20&fontSize=50)
 
 <hr/>
 <strong>사용자의 니즈</strong> 를 가장 먼저 생각하는 개발자
