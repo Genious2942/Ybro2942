@@ -12,7 +12,7 @@
 <br/>
 
 #### Come my blog😋 
-  <img src="https://img.shields.io/badge/Tistory-#FF6000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Tistory-FF6000?style=for-the-badge&logo=Tistory&logoColor=white"> 
 https://kim-genius.tistory.com/
 
 <hr>
