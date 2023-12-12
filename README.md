@@ -2,6 +2,7 @@
 
 <hr/>
 <div align='center'>
+  $\huge{\rm{\color{#5ad7b7}큰글씨\ 로만체\ 초록색}}
 <strong style='color:#2a5298'>사용자의 니즈</strong> 를 가장 먼저 생각하는 개발자
 <br/>
 <br/>
